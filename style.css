@@ -1,0 +1,61 @@
+/* default css */
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+  }
+  
+  h1, h2 {
+    font-weight: normal;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  a {
+    color: #42b983;
+  }
+
+/* My css */
+#logo{
+    padding-top: 2em;
+}
+h1.title{
+  font-size: 2em;
+  color: #fff;
+  padding: 1em;
+  margin: 0;
+  text-transform: capitalize;
+}
+.card-title{
+  text-transform: uppercase;
+}
+
+p>span{
+  font-weight: bold;
+}
+#results-container{
+  padding: 10vh 0 25vh; 
+}
+#preloader {
+  margin-top: 20vh;
+}
+.card.col.s3.red.darken-3{
+  border: 2px solid #fff;
+  border-radius: 0.7em;
+  padding: 1em;
+  color: #fff;
+}
+.card-image{
+  background-image: url("src/assets/card-bg.jpg");
+  background-size: cover;
+}
