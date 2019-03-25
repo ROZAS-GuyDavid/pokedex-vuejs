@@ -12,6 +12,7 @@
                         <p><span>Type: </span>{{allTypes(index)}}</p>
                         <p>test git</p>
                         
+                        <p>git test2</p>
                     </div>
                 </div> 
             </div>
