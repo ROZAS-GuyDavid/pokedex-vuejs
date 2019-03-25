@@ -10,9 +10,9 @@
                         <p><span class="card-title center-align">{{pokemons[index].name}}</span></p>
                         <p><span>#{{pokemons[index].id}}</span></p>
                         <p><span>Type: </span>{{allTypes(index)}}</p>
-                        <p>test git</p>
-                        
+                        <p>test git</p>                   
                         <p>git test2</p>
+                        <p>git test3</p>
                     </div>
                 </div> 
             </div>
